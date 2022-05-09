@@ -14,7 +14,8 @@
           "optionalDependencies": false,
           "peerDependencies": false
         }
-      ]
+      ],
+      "requireConfigFile": false
     },
     "env": {
       "jest": true
